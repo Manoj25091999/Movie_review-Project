@@ -4,7 +4,6 @@ pandas
 numpy
 matplotlib
 tensorflow
-re
 nltk
 pickle
 sklearn
