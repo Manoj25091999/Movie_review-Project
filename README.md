@@ -1,1 +1,1 @@
-# IMDB-Project
+# IMDB-Project using Bidirectional LSTM
