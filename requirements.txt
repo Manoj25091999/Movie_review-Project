@@ -1,0 +1,11 @@
+Flask
+gunicorn
+pandas
+numpy
+matplotlib
+tensorflow
+keras
+re
+nltk
+pickle
+sklearn
